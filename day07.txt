@@ -1,0 +1,1 @@
+echo "Its more then 22 days passed but still the confidence is low...Need to more improve my skills in less time"
