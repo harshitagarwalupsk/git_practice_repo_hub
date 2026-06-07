@@ -11,4 +11,4 @@ git commit -m "This is my first commit"
 git status
 
 #Provides the status of commits in one line
-git log -oneline
+git log --oneline
