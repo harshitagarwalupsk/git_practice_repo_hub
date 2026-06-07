@@ -12,3 +12,14 @@ git status
 
 #Provides the status of commits in one line
 git log --oneline
+
+#To register user
+git config --global user.name<>
+git config --global user.email<>
+
+#To restore a modified or deleted file
+git restore
+
+#List all branches in your repo
+git branch
+
